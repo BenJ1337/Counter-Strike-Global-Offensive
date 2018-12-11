@@ -13,8 +13,8 @@
 
 ### Command Detail
 
-	[Command Detail - Source Engine (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Console_Command_List)
-	[Command Detail - CSGO](/CSGO-Cmds.csv)
+- [Command Detail - Source Engine (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Console_Command_List)
+- [Command Detail - CSGO](/CSGO-Cmds.csv)
 
 ### Buy Script
 
