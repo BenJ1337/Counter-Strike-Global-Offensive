@@ -1,7 +1,8 @@
 ## Counter-Strike-Global-Offensive
 
-https://developer.valvesoftware.com/wiki/Console_Command_List
+[Cmd-Details - Source Eng](https://developer.valvesoftware.com/wiki/Console_Command_List)
 
+[Cmd-Details - CSGO](/CSGO-Cmds.csv)
 
 ### Buy Script
 
