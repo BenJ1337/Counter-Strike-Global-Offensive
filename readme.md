@@ -61,11 +61,6 @@ https://developer.valvesoftware.com/wiki/Console_Command_List
 	cl_radar_scale 0.4
 	cl_hud_radar_scale 1.3
 
-
-	cl_interp 0
-	cl_interp_ratio 1
-	cl_interpolate 1
-
 ### Display Text out of the console
 
 	developer "1"
