@@ -11,12 +11,12 @@
 9. [Network Statistics](#network-statistics)
 10. [Display Equipment of your Teammates](#display-equipment-of-your-teammates)
 
-### Command Detail
+### 1. Command Detail
 
 - [Command Detail - Source Engine (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Console_Command_List)
 - [Command Detail - CSGO](/CSGO-Cmds.csv)
 
-### Buy Script
+### 2. Buy Script
 
 	bind "kp_end" "buy p250;"
 	bind "kp_ins" "buy vesthelm;"
@@ -37,7 +37,7 @@
 	bind "kp_multiply" "buy Taser;"
 	bind "kp_slash" "buy ump45;"
 
-### Crosshair
+### 3. Crosshair
 
 	cl_crosshairalpha "200"
 	cl_crosshaircolor "5"
@@ -54,7 +54,7 @@
 	cl_crosshair_outlinethickness "1"
 	cl_crosshair_drawoutline "1"
 
-### Viewmodel
+### 4. Viewmodel
 
 	viewmodel_presetpos "3"
 	viewmodel_fov "68"
@@ -68,37 +68,37 @@
 	cl_bobamt_vert "0"
 	cl_bobcycle "0.98"
 
-### Radar
+### 5. Radar
 
 	cl_radar_always_centered 0
 	cl_radar_scale 0.4
 	cl_hud_radar_scale 1.3
 
-### Display Text out of the console
+### 6. Display Text out of the console
 
 	developer "1"
 	con_filter_enable "2"
 	con_filter_text_out "Player:"
 	con_filter_text "Damage "
 
-### Limit FPS (144Hz Monitor)
+### 7.Limit FPS (144Hz Monitor)
 
 	fps_max "150"
 
-### Anti Autokick
+### 8. Anti Autokick
 
 	alias prevAutoKick prevAutoKick_on;
 	alias "prevAutoKick_on" "+forward; +moveleft; +left; alias prevAutoKick prevAutoKick_off";
 	alias "prevAutoKick_off" "-forward; -moveleft; -left; alias prevAutoKick prevAutoKick_on";
 	bind "l" "prevAutoKick"
 
-### Network Statistics
+### 9. Network Statistics
 
 	net_graph 1;
 	net_graphpos 1;
 	net_graphproportionalfont 0;
 
-### Display Equipment of your Teammates
+### 10. Display Equipment of your Teammates
 
 	alias ToggleInfo info_off;
 	alias "info_off" "-cl_show_team_equipment;cl_teamid_overhead_always 0; alias ToggleInfo info_on";
