@@ -1,15 +1,15 @@
 ## Counter-Strike-Global-Offensive Binds/Commands
 
-1. [Command Detail](#Command-Detail)
-2. [Buy Script](#buy-script)
-3. [Crosshair](#crosshair)
-4. [Viewmodel](#viewmodel)
-5. [Radar](#radar)
-6. [Display Text out of the console](#display-text-out-of-the-console)
-7. [Limit FPS (144Hz Monitor)](#limit-fps-144Hz-monitor)
-8. [Anti Autokick](#anti-autokick)
-9. [Network Statistics](#network-statistics)
-10. [Display Equipment of your Teammates](#display-equipment-of-your-teammates)
+1. [Command Detail](#1-Command-Detail)
+2. [Buy Script](#2-buy-script)
+3. [Crosshair](#3-crosshair)
+4. [Viewmodel](#4-viewmodel)
+5. [Radar](#5-radar)
+6. [Display Text out of the console](#6-display-text-out-of-the-console)
+7. [Limit FPS (144Hz Monitor)](#7-limit-fps-144Hz-monitor)
+8. [Anti Autokick](#8-anti-autokick)
+9. [Network Statistics](#9-network-statistics)
+10. [Display Equipment of your Teammates](#10-display-equipment-of-your-teammates)
 
 ### 1. Command Detail
 
