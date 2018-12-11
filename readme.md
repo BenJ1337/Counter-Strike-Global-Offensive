@@ -1,6 +1,6 @@
 ## Counter-Strike-Global-Offensive Binds
 
-- [Cmd-Details - Source Eng](https://developer.valvesoftware.com/wiki/Console_Command_List)
+- [Cmd-Details - Source Engine (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Console_Command_List)
 - [Cmd-Details - CSGO](/CSGO-Cmds.csv)
 
 ### Buy Script
