@@ -7,9 +7,9 @@
 5. [Radar](#radar)
 6. [Display Text out of the console](#display-text-out-of-the-console)
 7. [Limit FPS (144Hz Monitor)](#limit-fps-144Hz-monitor)
-8. [Anti Autokick](anti-autokick)
-9. [Network Statistics](network-statistics)
-10. [Display Equipment of your Teammates](display-equipment-of-your-teammates)
+8. [Anti Autokick](#anti-autokick)
+9. [Network Statistics](#network-statistics)
+10. [Display Equipment of your Teammates](#display-equipment-of-your-teammates)
 
 ### Command Detail
 
