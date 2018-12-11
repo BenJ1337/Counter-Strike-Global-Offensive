@@ -3,6 +3,8 @@
 - [Cmd-Details - Source Engine (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Console_Command_List)
 - [Cmd-Details - CSGO](/CSGO-Cmds.csv)
 
+1. [Funktionsumfang](#1-Buy Script)
+
 ### Buy Script
 
 	bind "kp_end" "buy p250;"
