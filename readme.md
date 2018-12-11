@@ -3,7 +3,15 @@
 - [Cmd-Details - Source Engine (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Console_Command_List)
 - [Cmd-Details - CSGO](/CSGO-Cmds.csv)
 
-1. [Funktionsumfang](#1-Buy Script)
+1. [Buy Script](#1-Buy-Script)
+2. [Crosshair](#2-Crosshair)
+3. [Viewmodel](#3-Viewmodel)
+4. [Radar](#4-Radar)
+5. [Display Text out of the console](#4-Display-Text-out-of-the-console)
+6. [Limit FPS (144Hz Monitor)](#4-Limit-FPS-(144Hz-Monitor))
+7. [Anti Autokick](#4-Anti-Autokick)
+8. [Network Statistics](#4-Network-Statistics)
+9. [Display Equipment of your Teammates](#4-Display-Equipment-of-your-Teammates)
 
 ### Buy Script
 
