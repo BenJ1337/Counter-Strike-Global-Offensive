@@ -105,3 +105,10 @@
 	alias "info_on" "+cl_show_team_equipment;cl_teamid_overhead_always 1; alias ToggleInfo info_off";
 	bind "u" "ToggleInfo"
 	ToggleInfo;
+
+### 10. Hide Player/Profil Pictures
+
+	cl_hide_avatar_images "2";
+	0 - Show all Pictures
+	1 - Show only your own profil picture
+	2 - Show your and your friends profil picture
