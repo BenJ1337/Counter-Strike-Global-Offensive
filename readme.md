@@ -10,7 +10,7 @@
 8. [Anti Autokick](#8-anti-autokick)
 9. [Network Statistics](#9-network-statistics)
 10. [Display Equipment of your Teammates](#10-display-equipment-of-your-teammates)
-11. [Hide Player/Profil Pictures](#11.-hide-player/profil-pictures)
+11. [Hide Player/Profil Pictures](#11.-hide-player-profil-pictures)
 
 ### 1. Command Detail
 
@@ -107,7 +107,7 @@
 	bind "u" "ToggleInfo"
 	ToggleInfo;
 
-### 11. Hide Player/Profil Pictures
+### 11. Hide Player-Profil Pictures
 
 	cl_hide_avatar_images "2";
 	0 - Show all Pictures
