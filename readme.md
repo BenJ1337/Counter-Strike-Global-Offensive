@@ -101,9 +101,10 @@
 
 ### 10. Display Equipment of your Teammates
 
-	alias ToggleInfo info_off;
-	alias "info_off" "-cl_show_team_equipment;cl_teamid_overhead_always 0; alias ToggleInfo info_on";
-	alias "info_on" "+cl_show_team_equipment;cl_teamid_overhead_always 1; alias ToggleInfo info_off";
+	alias ToggleInfo info_0;
+	alias "info_0" "cl_teamid_overhead_mode 0; echo "hide everything"; alias ToggleInfo info_1";
+	alias "info_1" "cl_teamid_overhead_mode 1; echo "show pips"; alias ToggleInfo info_2";
+	alias "info_2" "cl_teamid_overhead_mode 2; echo "show pips, name, and equipment"; alias ToggleInfo info_0";
 	bind "u" "ToggleInfo"
 	ToggleInfo;
 
