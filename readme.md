@@ -21,7 +21,7 @@
 - [Command Detail - Source Engine (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Console_Command_List)
 - [Developer Console (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Developer_Console#Commands_and_variables)
 - [Command Detail - CSGO](/CSGO-Cmds.csv)
-- [Dump Console Output to File (developer.valvesoftware.com)]/https://developer.valvesoftware.com/wiki/Cvarlist)
+- [Dump Console Output to File (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Cvarlist)
 
 ### 2. Buy Script
 
