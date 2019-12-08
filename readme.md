@@ -11,11 +11,17 @@
 9. [Network Statistics](#9-network-statistics)
 10. [Display Equipment of your Teammates](#10-display-equipment-of-your-teammates)
 11. [Hide Player-Profil Pictures](#11-hide-player-profil-pictures)
+12. [Dump The Text Currently In The Console To condumpXXX.log](#12-dump-the-text-currently-in-the-console-to-condumpXXX.log)
+13. [List All Maps](#13-list-all-maps)
+14. [List All Known Sounds](#14-list-all-known-sounds)
+15. [Dump List With All Commands To Console](#15-dump-list-with-all-Commands-to-console)
 
 ### 1. Command Detail
 
 - [Command Detail - Source Engine (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Console_Command_List)
+- [Developer Console (developer.valvesoftware.com)](https://developer.valvesoftware.com/wiki/Developer_Console#Commands_and_variables)
 - [Command Detail - CSGO](/CSGO-Cmds.csv)
+- [Dump Console Output to File (developer.valvesoftware.com)]/https://developer.valvesoftware.com/wiki/Cvarlist)
 
 ### 2. Buy Script
 
@@ -75,7 +81,7 @@
 	cl_radar_scale 0.4
 	cl_hud_radar_scale 1.3
 
-### 6. Display Text out of the console
+### 6. Display Text Out Of The console
 
 	developer "1"
 	con_filter_enable "2"
@@ -99,7 +105,7 @@
 	net_graphpos 1;
 	net_graphproportionalfont 0;
 
-### 10. Display Equipment of your Teammates
+### 10. Display Equipment Of Your Teammates
 
 	alias ToggleInfo info_0;
 	alias "info_0" "cl_teamid_overhead_mode 0; echo "hide everything"; alias ToggleInfo info_1";
@@ -114,3 +120,20 @@
 	0 - Show all Pictures
 	1 - Show only your own profil picture
 	2 - Show your and your friends profil picture
+
+### 12. Dump The Text Currently In The Console To condumpXXX.log
+Path: \Steam\steamapps\common\Counter-Strike Global Offensive\csgo
+
+	condump
+
+### 13. List All Maps
+
+	map *
+
+### 14. List All Known Sounds
+
+	soundlist
+
+### 15. Dump List With All Commands To Console
+
+	cvarlist
